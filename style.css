@@ -1,0 +1,30 @@
+h1{
+color: rgb(58, 6, 6);
+letter-spacing: 1cm;
+}
+
+
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* ou o tamanho do container */
+}
+
+
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: rgba(63, 4, 17, 0.253);
+  text-align: center;
+}
+
+p {
+  color: gray;
+  font-size: 18px;
+}
+
